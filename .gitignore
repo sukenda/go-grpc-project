@@ -1,0 +1,8 @@
+/go-grpc-api-gateway/vendor/
+/go-grpc-api-gateway/.idea/
+/go-grpc-auth-svc/vendor/
+/go-grpc-auth-svc/.idea/
+/go-grpc-order-svc/vendor/
+/go-grpc-order-svc/.idea/
+/go-grpc-product-svc/vendor/
+/go-grpc-product-svc/.idea/
